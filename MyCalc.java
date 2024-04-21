@@ -2,7 +2,9 @@
 public class MyCalc {
     int sum(int a, int b)
     {
-        return a+b;
+        int s=0;
+        s=a+b;
+        return s;
     }
     int diff(int a, int b)
     {
